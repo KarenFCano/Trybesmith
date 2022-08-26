@@ -1,6 +1,6 @@
 # Boas vindas ao repositório do projeto Trybesmith!
 
-<summary><strong>👨‍💻 O que foi desenvolvido</strong></summary><br />
+<strong> O que foi desenvolvido</strong></summary><br />
 
   Para este projeto, você criamos uma loja de itens medievais, no formato de uma _API_, utilizando _Typescript_.
   
